@@ -1,5 +1,5 @@
-import Profile from './components/intro';
-import List from './components/list';
+import Profile from './components/Intro';
+import List from './components/List';
 
 
 function App() {
